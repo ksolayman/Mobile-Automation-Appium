@@ -16,7 +16,6 @@ import java.time.Duration;
 
 public class ConfigApk {
 
-    static AppiumDriverLocalService server;
     public static UiAutomator2Options options;
     static AndroidDriver driver;
 
